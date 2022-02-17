@@ -1,0 +1,17 @@
+p {
+ font-size: large;
+}
+a {
+  color: rgb(10, 76, 199);
+  text-decoration: none;
+}
+.card {
+  border-radius: 40px;
+  overflow: hidden;
+  transition: all 0.3s;
+
+}
+
+.card:hover {
+  box-shadow: 5px 5px 10px;
+}
